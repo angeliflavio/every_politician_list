@@ -6,7 +6,7 @@ This is a python script to download the list of politicians from 233 countries a
 
 ## EveryPolitician Data
 
-EveryPolitician is a project to collect and share data, in a consistent, open format that anyone can use. Their dataset contains informatio about over 70,000 politicians from 233 countries so far.
+EveryPolitician is a project to collect and share data, in a consistent, open format that anyone can use. Their dataset contains information about over 70,000 politicians from 233 countries so far.
 Data is freely available for everybody to use. Data can be downloaded from their website in two formats:
 
 * CSV format
